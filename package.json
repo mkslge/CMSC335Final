@@ -1,17 +1,15 @@
 {
-    "dependencies": {
-      "dotenv": "^16.0.0",
-      "mongodb": "^4.17.2",
-      "punycode": "^2.3.1"
-    },
-    "name": "implementation",
-    "version": "1.0.0",
-    "main": "connectingToDB.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
-    "license": "ISC",
-    "description": ""
+  "name": "finalproject",
+  "version": "1.0.0",
+  "main": "final.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
   }
-  
+}
